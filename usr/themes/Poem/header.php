@@ -50,7 +50,7 @@
 </nav>
 <header class="mobile">
     <a href="<?php $this->options->siteUrl(); ?>">
-        <img class="logo" src="<?php $this->options->themeUrl('images/logo.png'); ?>" alt="<?php $this->options->title() ?>" width="96" height="35" />
+        <!-- <img class="logo" src="<?php $this->options->themeUrl('images/logo.png'); ?>" alt="<?php $this->options->title() ?>" width="96" height="35" /> -->
     </a>
     <button type="button" class="nav-button">
         <div class="button-bars"></div>
